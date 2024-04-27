@@ -9,7 +9,7 @@ function App() {
 
   const locomotiveScroll = new LocomotiveScroll();
   return (
-    <div className="w-full min-h-screen bg-[#f5f5dc]">
+    <div className="w-screen h-full bg-[#f5f5dc]">
       <Navbar />
       <Eyes/> 
       <div 
@@ -20,6 +20,10 @@ function App() {
       </div>
     </div>
   )
+
+
+
+
 }
 
 export default App
