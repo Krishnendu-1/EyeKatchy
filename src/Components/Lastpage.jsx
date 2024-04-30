@@ -30,7 +30,7 @@ function Lastpage() {
       </div>
       
       <div className='flex justify-evenly items-center w-[20vw] h-fit mobile:w-[12rem]'>
-        <img src={Img} className='w-50 bg-cover rounded-xl shadow-xl p-2' />
+        <img src="https://images.unsplash.com/photo-1472457897821-70d3819a0e24?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" className='w-50 bg-cover rounded-xl shadow-xl p-2' />
         <div className='text-xl flex justify-center items-center gap-1 w-fit'>
         Start
         <button><SlArrowRightCircle />
